@@ -1,0 +1,49 @@
+﻿@* @model string *@
+
+@model Persona
+
+@{
+    //TRANSMITE INFORMACIÓN DE LA VISTA HACIA EL LAYOUT
+
+    ViewData["Title"] = "Home Page";
+
+    //CREAMOS UNA FUNCION QUE CONVIERTA EN MAYUSCULAS LOS DATOS ENVIADOS A LA VISTA
+
+    // string ConvertirEnMayusculas(string valor)
+    // {
+    //     return valor.ToUpper() + ", NVP";
+    // }
+    // DateTime hoy = DateTime.Now;
+}
+
+<div class="text-center">
+    <h1 class="display-4">I am Yonier Perez @* @ConvertirEnMayusculas(Model.Nombre) (Model.Edad) *@</h1> @* //@ViewBag.Nombre *@ @* @Model (@ViewBag.Edad) *@ @* @Model.Nombre.ToUpper() (@Model.Edad) *@
+    @* <h4>@hoy.ToString("dd/MM/yyyy hh:mm:ss tt")</h4>
+    @if (Model.Edad >= 18)
+    {
+        <h4>Eres mayor de edad, puedes pasar... <button>Ingresar</button></h4>
+    }
+    else
+    {
+        <h4>Eres menos de edad, no puedes pasar...</h4>
+    } *@
+    <h4>I am consulting engenner, project manager, and develper</h4>
+    <img id="foto" src="~/Imagenes/download.jpg" alt="Foto yz" />
+</div>
+
+<div class="text-center">
+
+    <img id="imagen-net" src="~/Imagenes/programacion-2-e1551291144973.jpg" alt="Logo programacion" />
+
+</div>
+
+
+<div class="row justify-content-center text-center bg-primary">
+    <div class="col col-md-7 seccion-bienvenida">
+        <h1>Bienvenido a mi protafolio de servicios de valor agregado</h1>
+        <p>
+            Soy Gerente de proyectos, Certificado Scrum Master, especialista en desarrollo de Software,
+            cib Experiencia de 10 años en Desarrollo de aplicaciones moviles, DBA por tres años sisas
+        </p>
+    </div>
+</div>

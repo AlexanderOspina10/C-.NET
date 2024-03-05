@@ -1,0 +1,7 @@
+D:\Escritorio\C#.NET\UsoCuent\UsoCuent\bin\Debug\UsoCuent.exe.config
+D:\Escritorio\C#.NET\UsoCuent\UsoCuent\bin\Debug\UsoCuent.exe
+D:\Escritorio\C#.NET\UsoCuent\UsoCuent\bin\Debug\UsoCuent.pdb
+D:\Escritorio\C#.NET\UsoCuent\UsoCuent\obj\Debug\UsoCuent.csproj.AssemblyReference.cache
+D:\Escritorio\C#.NET\UsoCuent\UsoCuent\obj\Debug\UsoCuent.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#.NET\UsoCuent\UsoCuent\obj\Debug\UsoCuent.exe
+D:\Escritorio\C#.NET\UsoCuent\UsoCuent\obj\Debug\UsoCuent.pdb

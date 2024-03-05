@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Portafolio",
+    "\\Portafolio\\Controllers",
+    "\\Portafolio\\Models",
+    "\\Portafolio\\Views",
+    "\\Portafolio\\Views\\Home",
+    "\\Portafolio\\Views\\Shared",
+    "\\Portafolio\\wwwroot",
+    "\\Portafolio\\wwwroot\\css",
+    "\\Portafolio\\wwwroot\\Imagenes"
+  ],
+  "SelectedNode": "\\Portafolio\\wwwroot\\css\\custom.css",
+  "PreviewInSolutionExplorer": false
+}

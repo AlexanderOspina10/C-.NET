@@ -1,0 +1,7 @@
+D:\Escritorio\C#.NET\MainVehiculo\MainVehiculo\obj\Debug\MainVehiculo.csproj.AssemblyReference.cache
+D:\Escritorio\C#.NET\MainVehiculo\MainVehiculo\obj\Debug\MainVehiculo.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#.NET\MainVehiculo\MainVehiculo\bin\Debug\MainVehiculo.exe.config
+D:\Escritorio\C#.NET\MainVehiculo\MainVehiculo\bin\Debug\MainVehiculo.exe
+D:\Escritorio\C#.NET\MainVehiculo\MainVehiculo\bin\Debug\MainVehiculo.pdb
+D:\Escritorio\C#.NET\MainVehiculo\MainVehiculo\obj\Debug\MainVehiculo.exe
+D:\Escritorio\C#.NET\MainVehiculo\MainVehiculo\obj\Debug\MainVehiculo.pdb

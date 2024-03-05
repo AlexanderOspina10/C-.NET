@@ -1,0 +1,14 @@
+D:\Escritorio\C#.NET\RetoIndividual\RetoIndividual\bin\Debug\net7.0\RetoIndividual.exe
+D:\Escritorio\C#.NET\RetoIndividual\RetoIndividual\bin\Debug\net7.0\RetoIndividual.deps.json
+D:\Escritorio\C#.NET\RetoIndividual\RetoIndividual\bin\Debug\net7.0\RetoIndividual.runtimeconfig.json
+D:\Escritorio\C#.NET\RetoIndividual\RetoIndividual\bin\Debug\net7.0\RetoIndividual.dll
+D:\Escritorio\C#.NET\RetoIndividual\RetoIndividual\bin\Debug\net7.0\RetoIndividual.pdb
+D:\Escritorio\C#.NET\RetoIndividual\RetoIndividual\obj\Debug\net7.0\RetoIndividual.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\C#.NET\RetoIndividual\RetoIndividual\obj\Debug\net7.0\RetoIndividual.AssemblyInfoInputs.cache
+D:\Escritorio\C#.NET\RetoIndividual\RetoIndividual\obj\Debug\net7.0\RetoIndividual.AssemblyInfo.cs
+D:\Escritorio\C#.NET\RetoIndividual\RetoIndividual\obj\Debug\net7.0\RetoIndividual.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#.NET\RetoIndividual\RetoIndividual\obj\Debug\net7.0\RetoIndividual.dll
+D:\Escritorio\C#.NET\RetoIndividual\RetoIndividual\obj\Debug\net7.0\refint\RetoIndividual.dll
+D:\Escritorio\C#.NET\RetoIndividual\RetoIndividual\obj\Debug\net7.0\RetoIndividual.pdb
+D:\Escritorio\C#.NET\RetoIndividual\RetoIndividual\obj\Debug\net7.0\RetoIndividual.genruntimeconfig.cache
+D:\Escritorio\C#.NET\RetoIndividual\RetoIndividual\obj\Debug\net7.0\ref\RetoIndividual.dll

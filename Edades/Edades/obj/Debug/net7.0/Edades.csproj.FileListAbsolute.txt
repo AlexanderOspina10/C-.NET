@@ -1,0 +1,14 @@
+D:\Escritorio\C#.NET\Edades\Edades\bin\Debug\net7.0\Edades.exe
+D:\Escritorio\C#.NET\Edades\Edades\bin\Debug\net7.0\Edades.deps.json
+D:\Escritorio\C#.NET\Edades\Edades\bin\Debug\net7.0\Edades.runtimeconfig.json
+D:\Escritorio\C#.NET\Edades\Edades\bin\Debug\net7.0\Edades.dll
+D:\Escritorio\C#.NET\Edades\Edades\bin\Debug\net7.0\Edades.pdb
+D:\Escritorio\C#.NET\Edades\Edades\obj\Debug\net7.0\Edades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\C#.NET\Edades\Edades\obj\Debug\net7.0\Edades.AssemblyInfoInputs.cache
+D:\Escritorio\C#.NET\Edades\Edades\obj\Debug\net7.0\Edades.AssemblyInfo.cs
+D:\Escritorio\C#.NET\Edades\Edades\obj\Debug\net7.0\Edades.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#.NET\Edades\Edades\obj\Debug\net7.0\Edades.dll
+D:\Escritorio\C#.NET\Edades\Edades\obj\Debug\net7.0\refint\Edades.dll
+D:\Escritorio\C#.NET\Edades\Edades\obj\Debug\net7.0\Edades.pdb
+D:\Escritorio\C#.NET\Edades\Edades\obj\Debug\net7.0\Edades.genruntimeconfig.cache
+D:\Escritorio\C#.NET\Edades\Edades\obj\Debug\net7.0\ref\Edades.dll

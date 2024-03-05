@@ -1,0 +1,14 @@
+D:\Escritorio\C#.NET\TallerPunto3\TallerPunto3\bin\Debug\net7.0\TallerPunto3.exe
+D:\Escritorio\C#.NET\TallerPunto3\TallerPunto3\bin\Debug\net7.0\TallerPunto3.deps.json
+D:\Escritorio\C#.NET\TallerPunto3\TallerPunto3\bin\Debug\net7.0\TallerPunto3.runtimeconfig.json
+D:\Escritorio\C#.NET\TallerPunto3\TallerPunto3\bin\Debug\net7.0\TallerPunto3.dll
+D:\Escritorio\C#.NET\TallerPunto3\TallerPunto3\bin\Debug\net7.0\TallerPunto3.pdb
+D:\Escritorio\C#.NET\TallerPunto3\TallerPunto3\obj\Debug\net7.0\TallerPunto3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\C#.NET\TallerPunto3\TallerPunto3\obj\Debug\net7.0\TallerPunto3.AssemblyInfoInputs.cache
+D:\Escritorio\C#.NET\TallerPunto3\TallerPunto3\obj\Debug\net7.0\TallerPunto3.AssemblyInfo.cs
+D:\Escritorio\C#.NET\TallerPunto3\TallerPunto3\obj\Debug\net7.0\TallerPunto3.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#.NET\TallerPunto3\TallerPunto3\obj\Debug\net7.0\TallerPunto3.dll
+D:\Escritorio\C#.NET\TallerPunto3\TallerPunto3\obj\Debug\net7.0\refint\TallerPunto3.dll
+D:\Escritorio\C#.NET\TallerPunto3\TallerPunto3\obj\Debug\net7.0\TallerPunto3.pdb
+D:\Escritorio\C#.NET\TallerPunto3\TallerPunto3\obj\Debug\net7.0\TallerPunto3.genruntimeconfig.cache
+D:\Escritorio\C#.NET\TallerPunto3\TallerPunto3\obj\Debug\net7.0\ref\TallerPunto3.dll

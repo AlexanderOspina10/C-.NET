@@ -1,0 +1,7 @@
+D:\Escritorio\C#.NET\TallerEvaluativo\TallerEvaluativo\bin\Debug\TallerEvaluativo.exe.config
+D:\Escritorio\C#.NET\TallerEvaluativo\TallerEvaluativo\bin\Debug\TallerEvaluativo.exe
+D:\Escritorio\C#.NET\TallerEvaluativo\TallerEvaluativo\bin\Debug\TallerEvaluativo.pdb
+D:\Escritorio\C#.NET\TallerEvaluativo\TallerEvaluativo\obj\Debug\TallerEvaluativo.csproj.AssemblyReference.cache
+D:\Escritorio\C#.NET\TallerEvaluativo\TallerEvaluativo\obj\Debug\TallerEvaluativo.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#.NET\TallerEvaluativo\TallerEvaluativo\obj\Debug\TallerEvaluativo.exe
+D:\Escritorio\C#.NET\TallerEvaluativo\TallerEvaluativo\obj\Debug\TallerEvaluativo.pdb

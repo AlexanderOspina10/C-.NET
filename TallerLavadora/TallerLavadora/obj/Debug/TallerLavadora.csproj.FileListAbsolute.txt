@@ -1,0 +1,9 @@
+D:\Escritorio\C#.NET\TallerLavadora\TallerLavadora\bin\Debug\TallerLavadora.exe.config
+D:\Escritorio\C#.NET\TallerLavadora\TallerLavadora\bin\Debug\TallerLavadora.exe
+D:\Escritorio\C#.NET\TallerLavadora\TallerLavadora\bin\Debug\TallerLavadora.pdb
+D:\Escritorio\C#.NET\TallerLavadora\TallerLavadora\obj\Debug\TallerLavadora.csproj.AssemblyReference.cache
+D:\Escritorio\C#.NET\TallerLavadora\TallerLavadora\obj\Debug\TallerLavadora.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#.NET\TallerLavadora\TallerLavadora\obj\Debug\TallerLavadora.exe
+D:\Escritorio\C#.NET\TallerLavadora\TallerLavadora\obj\Debug\TallerLavadora.pdb
+D:\Escritorio\C#.NET\TallerLavadora\TallerLavadora\obj\Debug\Interop.WMPLib.dll
+D:\Escritorio\C#.NET\TallerLavadora\TallerLavadora\obj\Debug\TallerLavadora.csproj.ResolveComReference.cache

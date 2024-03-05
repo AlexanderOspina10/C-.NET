@@ -1,0 +1,14 @@
+D:\Escritorio\C#.NET\Reto2\Reto2\bin\Debug\net7.0\Reto2.exe
+D:\Escritorio\C#.NET\Reto2\Reto2\bin\Debug\net7.0\Reto2.deps.json
+D:\Escritorio\C#.NET\Reto2\Reto2\bin\Debug\net7.0\Reto2.runtimeconfig.json
+D:\Escritorio\C#.NET\Reto2\Reto2\bin\Debug\net7.0\Reto2.dll
+D:\Escritorio\C#.NET\Reto2\Reto2\bin\Debug\net7.0\Reto2.pdb
+D:\Escritorio\C#.NET\Reto2\Reto2\obj\Debug\net7.0\Reto2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\C#.NET\Reto2\Reto2\obj\Debug\net7.0\Reto2.AssemblyInfoInputs.cache
+D:\Escritorio\C#.NET\Reto2\Reto2\obj\Debug\net7.0\Reto2.AssemblyInfo.cs
+D:\Escritorio\C#.NET\Reto2\Reto2\obj\Debug\net7.0\Reto2.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#.NET\Reto2\Reto2\obj\Debug\net7.0\Reto2.dll
+D:\Escritorio\C#.NET\Reto2\Reto2\obj\Debug\net7.0\refint\Reto2.dll
+D:\Escritorio\C#.NET\Reto2\Reto2\obj\Debug\net7.0\Reto2.pdb
+D:\Escritorio\C#.NET\Reto2\Reto2\obj\Debug\net7.0\Reto2.genruntimeconfig.cache
+D:\Escritorio\C#.NET\Reto2\Reto2\obj\Debug\net7.0\ref\Reto2.dll

@@ -1,0 +1,14 @@
+D:\Escritorio\C#.NET\Reto3\Reto3\bin\Debug\net7.0\Reto3.exe
+D:\Escritorio\C#.NET\Reto3\Reto3\bin\Debug\net7.0\Reto3.deps.json
+D:\Escritorio\C#.NET\Reto3\Reto3\bin\Debug\net7.0\Reto3.runtimeconfig.json
+D:\Escritorio\C#.NET\Reto3\Reto3\bin\Debug\net7.0\Reto3.dll
+D:\Escritorio\C#.NET\Reto3\Reto3\bin\Debug\net7.0\Reto3.pdb
+D:\Escritorio\C#.NET\Reto3\Reto3\obj\Debug\net7.0\Reto3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\C#.NET\Reto3\Reto3\obj\Debug\net7.0\Reto3.AssemblyInfoInputs.cache
+D:\Escritorio\C#.NET\Reto3\Reto3\obj\Debug\net7.0\Reto3.AssemblyInfo.cs
+D:\Escritorio\C#.NET\Reto3\Reto3\obj\Debug\net7.0\Reto3.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#.NET\Reto3\Reto3\obj\Debug\net7.0\Reto3.dll
+D:\Escritorio\C#.NET\Reto3\Reto3\obj\Debug\net7.0\refint\Reto3.dll
+D:\Escritorio\C#.NET\Reto3\Reto3\obj\Debug\net7.0\Reto3.pdb
+D:\Escritorio\C#.NET\Reto3\Reto3\obj\Debug\net7.0\Reto3.genruntimeconfig.cache
+D:\Escritorio\C#.NET\Reto3\Reto3\obj\Debug\net7.0\ref\Reto3.dll

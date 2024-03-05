@@ -1,0 +1,14 @@
+D:\Escritorio\C#.NET\FormateoNumeros\FormateoNumeros\bin\Debug\net7.0\FormateoNumeros.exe
+D:\Escritorio\C#.NET\FormateoNumeros\FormateoNumeros\bin\Debug\net7.0\FormateoNumeros.deps.json
+D:\Escritorio\C#.NET\FormateoNumeros\FormateoNumeros\bin\Debug\net7.0\FormateoNumeros.runtimeconfig.json
+D:\Escritorio\C#.NET\FormateoNumeros\FormateoNumeros\bin\Debug\net7.0\FormateoNumeros.dll
+D:\Escritorio\C#.NET\FormateoNumeros\FormateoNumeros\bin\Debug\net7.0\FormateoNumeros.pdb
+D:\Escritorio\C#.NET\FormateoNumeros\FormateoNumeros\obj\Debug\net7.0\FormateoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\C#.NET\FormateoNumeros\FormateoNumeros\obj\Debug\net7.0\FormateoNumeros.AssemblyInfoInputs.cache
+D:\Escritorio\C#.NET\FormateoNumeros\FormateoNumeros\obj\Debug\net7.0\FormateoNumeros.AssemblyInfo.cs
+D:\Escritorio\C#.NET\FormateoNumeros\FormateoNumeros\obj\Debug\net7.0\FormateoNumeros.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#.NET\FormateoNumeros\FormateoNumeros\obj\Debug\net7.0\FormateoNumeros.dll
+D:\Escritorio\C#.NET\FormateoNumeros\FormateoNumeros\obj\Debug\net7.0\refint\FormateoNumeros.dll
+D:\Escritorio\C#.NET\FormateoNumeros\FormateoNumeros\obj\Debug\net7.0\FormateoNumeros.pdb
+D:\Escritorio\C#.NET\FormateoNumeros\FormateoNumeros\obj\Debug\net7.0\FormateoNumeros.genruntimeconfig.cache
+D:\Escritorio\C#.NET\FormateoNumeros\FormateoNumeros\obj\Debug\net7.0\ref\FormateoNumeros.dll

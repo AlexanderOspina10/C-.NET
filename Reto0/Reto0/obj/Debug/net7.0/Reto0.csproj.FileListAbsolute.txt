@@ -1,0 +1,14 @@
+D:\Escritorio\C#.NET\Reto0\Reto0\bin\Debug\net7.0\Reto0.exe
+D:\Escritorio\C#.NET\Reto0\Reto0\bin\Debug\net7.0\Reto0.deps.json
+D:\Escritorio\C#.NET\Reto0\Reto0\bin\Debug\net7.0\Reto0.runtimeconfig.json
+D:\Escritorio\C#.NET\Reto0\Reto0\bin\Debug\net7.0\Reto0.dll
+D:\Escritorio\C#.NET\Reto0\Reto0\bin\Debug\net7.0\Reto0.pdb
+D:\Escritorio\C#.NET\Reto0\Reto0\obj\Debug\net7.0\Reto0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\C#.NET\Reto0\Reto0\obj\Debug\net7.0\Reto0.AssemblyInfoInputs.cache
+D:\Escritorio\C#.NET\Reto0\Reto0\obj\Debug\net7.0\Reto0.AssemblyInfo.cs
+D:\Escritorio\C#.NET\Reto0\Reto0\obj\Debug\net7.0\Reto0.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#.NET\Reto0\Reto0\obj\Debug\net7.0\Reto0.dll
+D:\Escritorio\C#.NET\Reto0\Reto0\obj\Debug\net7.0\refint\Reto0.dll
+D:\Escritorio\C#.NET\Reto0\Reto0\obj\Debug\net7.0\Reto0.pdb
+D:\Escritorio\C#.NET\Reto0\Reto0\obj\Debug\net7.0\Reto0.genruntimeconfig.cache
+D:\Escritorio\C#.NET\Reto0\Reto0\obj\Debug\net7.0\ref\Reto0.dll
