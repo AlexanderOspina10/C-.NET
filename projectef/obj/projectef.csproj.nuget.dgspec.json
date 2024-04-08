@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Escritorio\\C#.NET\\projectef\\projectef.csproj": {}
+    "D:\\Documentos\\projectef\\projectef.csproj": {}
   },
   "projects": {
-    "D:\\Escritorio\\C#.NET\\projectef\\projectef.csproj": {
+    "D:\\Documentos\\projectef\\projectef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\C#.NET\\projectef\\projectef.csproj",
+        "projectUniqueName": "D:\\Documentos\\projectef\\projectef.csproj",
         "projectName": "projectef",
-        "projectPath": "D:\\Escritorio\\C#.NET\\projectef\\projectef.csproj",
+        "projectPath": "D:\\Documentos\\projectef\\projectef.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\C#.NET\\projectef\\obj\\",
+        "outputPath": "D:\\Documentos\\projectef\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,6 +41,12 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.0, )"
             },

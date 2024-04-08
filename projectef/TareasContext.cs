@@ -20,6 +20,7 @@ public TareasContext (DbContextOptions<TareasContext>options):base(options){}
              categoria.HasKey(p => p.CategoriaId); //CREAR CATEGORIA ID
              categoria.Property(p=> p.Nombre).IsRequired().HasMaxLength(150);
              categoria.Property(p=>p.Descripcion);
+             categoria.Property(p=>p.Peso);
         });
 
         modelBuilder.Entity<Tarea>(tarea=>{
